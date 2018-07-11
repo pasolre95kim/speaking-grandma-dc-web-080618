@@ -1,10 +1,10 @@
 # Write a speak_to_grandma method.
 
 speak_to_grandma = "HUH?! SPEAK UP, SONNY!"
-  if phrase == "I LOVE YOU GRANDMA!"
+  if speak_to_grandma == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
 
-  elsif phrase = uppercase
+  elsif speak_to_grandma.uppercase 
     puts "NO, NOT SINCE 1938"
 
   end
