@@ -3,10 +3,10 @@
 def speak_to_grandma (phrase)
   return "HuH?! SPEAK UP, SONNY!"
 
-  if speak_to_grandma == "I LOVE YOU GRANDMA!"
+  if phrase == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
 
-  elsif (.upespeak_to_grandma)
+  elsif 
     puts "NO, NOT SINCE 1938"
 
   end
